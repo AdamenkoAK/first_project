@@ -1,0 +1,3 @@
+﻿  MathCircle.cpp
+C:\Users\MKA\source\repos\MathCircle\MathCircle\MathCircle.cpp(7,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MathCircle.vcxproj -> C:\Users\MKA\source\repos\MathCircle\MathCircle\x64\Debug\MathCircle.exe

@@ -1,0 +1,4 @@
+﻿  MathCircle.cpp
+C:\Users\MKA\source\repos\MathCircle\MathCircle\MathCircle.cpp(13,23): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\MKA\source\repos\MathCircle\MathCircle\MathCircle.cpp(17,28): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  MathCircle.vcxproj -> C:\Users\MKA\source\repos\MathCircle\x64\Debug\MathCircle.exe
