@@ -4,7 +4,7 @@ using namespace std;
 class Circle {
 private:
     float radius;
-    double PI = 3.14;
+    double PI = 3.14156;
 
 public:  
     Circle(float r) : radius(r) {}
@@ -16,6 +16,7 @@ public:
     float square() const {
         return PI * radius * radius;
     }
+    
 };
 
 int main() {
